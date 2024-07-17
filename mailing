@@ -1,1 +1,3 @@
-Programa en google script apps
+Programa en Google Script Apps para enviar correos individuales en masa con opciones de respuesta que se almacenan en una hoja de cálculo.
+Este código utiliza las librerías y servicios de Google para escribir correos personalizables. Esto incluye, más no se limita a botones si-no,
+guardar el correo de los remitentes en variables y una página de agradecimiento por la respuesta.
